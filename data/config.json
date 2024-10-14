@@ -1,0 +1,9 @@
+{
+    "bot_token": "7645538777:AAF2l8GnGQRyJVM2qefM-JJv296O7wsN5qg",
+    "base_url": "https://api.openweathermap.org/data/2.5/",
+    "api_key": "79d1ca96933b0328e1c7e3e7a26cb347",
+    "openweather_default_params":{
+        "units": "metric",
+        "lang": "ru"
+    }
+}
