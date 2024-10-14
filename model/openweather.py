@@ -42,6 +42,7 @@ class OpenWeather:
         params = {}
         params['q'] = self.city
         params["appid"] = self.api_key
+        params["cnt"] = count
         params.update(self.default_params)
 
         #отправка запроса
